@@ -9,4 +9,5 @@ I am **Rachit Sharma** a Digital Marketer and AI Builder
 [Email](rachitsharma9990888@gmail.com)
 [Linkedin](https://www.linkedin.com/in/rachit-sharma08/)
 ### Tasks 
-
+[✓] Create a Github Repo Named Readme.md 
+[✓] Add about and Contact section in Readme.md 
